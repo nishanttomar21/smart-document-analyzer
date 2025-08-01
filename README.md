@@ -12,6 +12,10 @@ A Python script for analyzing documents using Azure AI Document Intelligence ser
 - **Table Extraction:** Complex table detection with row/column positioning
 - **Field Detection:** Key-value pair extraction with confidence levels
 
+## Demo Video
+
+https://github.com/user-attachments/assets/07173506-5a42-49e6-a68c-5764c63224f2
+
 ## Flowchart
 
 ```mermaid
